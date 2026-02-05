@@ -1,0 +1,15 @@
+# CPU PyTorch wheels are not on PyPI. The +cpu versions resolve from the index below.
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+torch==2.15.0+cpu
+torchvision==0.29.2+cpu
+ultralytics==8.4.202
+lap==0.5.14
+opencv-python==4.14.0.94
+streamlit==1.66.1
+streamlit-image-coordinates==0.4.1
+pandas==3.1.1
+plotly==7.1.0
+pytest==9.2.0
+numpy==2.4.6
+pillow==13.0.0

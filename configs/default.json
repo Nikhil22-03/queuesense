@@ -1,0 +1,12 @@
+{
+  "model_path": "yolo26n.pt",
+  "confidence": 0.25,
+  "device": "auto",
+  "frame_stride": 1,
+  "image_size": 640,
+  "join_confirm_sec": 1.5,
+  "service_confirm_sec": 1.0,
+  "exit_confirm_sec": 2.0,
+  "missing_grace_sec": 3.0,
+  "min_service_samples": 3
+}

@@ -1,0 +1,21 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Generated data and model weights. Sample JSON in data/ stays tracked.
+outputs/**
+!outputs/.gitkeep
+data/uploads/**
+!data/uploads/.gitkeep
+data/*.db
+data/*.mp4
+data/external_videos/**
+!data/external_videos/.gitkeep
+models/*.pt
+*.pt
+
+.ultralytics/
+.streamlit/secrets.toml

@@ -1,0 +1,6 @@
+[server]
+maxUploadSize = 800
+folderWatchBlacklist = [".venv", "outputs", "data", "models", ".pytest_cache"]
+
+[browser]
+gatherUsageStats = false
