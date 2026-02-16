@@ -1,0 +1,13 @@
+# Ultralytics ByteTrack settings used by QueueSense.
+# track_buffer is longer than the library default of 30 frames so a track can
+# survive about three seconds of occlusion at 24 fps. That matches the state
+# machine's missing-track grace more closely. It is still ByteTrack, not a
+# separate identity-recovery step. Tuned on the Starbucks development clip.
+
+tracker_type: bytetrack
+track_high_thresh: 0.25
+track_low_thresh: 0.1
+new_track_thresh: 0.25
+track_buffer: 72
+match_thresh: 0.8
+fuse_score: True
