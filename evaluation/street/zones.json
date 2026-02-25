@@ -1,0 +1,23 @@
+{
+  "coordinate_space": "normalized",
+  "notes": "Sidewalk queue outside a shop. No service counter is visible, so service is omitted and service metrics are not scored.",
+  "queue": [
+    [
+      0.0,
+      0.4
+    ],
+    [
+      0.64,
+      0.4
+    ],
+    [
+      0.6,
+      0.78
+    ],
+    [
+      0.0,
+      0.84
+    ]
+  ],
+  "service": null
+}

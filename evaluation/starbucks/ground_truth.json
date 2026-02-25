@@ -1,0 +1,167 @@
+{
+  "schema_version": 1,
+  "notes": "Manual counts for the Starbucks development clip. Count is people with feet inside the queue polygon, not passersby in the aisle and not the customer already at the register. The line stayed at 5 clear people (child, two smaller children, woman with the chevron bag, person in the hat). One more person may be hidden behind the hat; that possibility is why some frames are ambiguous, but the recorded count stays 5. No visit both joined and reached service inside this 10.3 s clip, so waiting time is not scored.",
+  "match_tolerance_sec": 2.0,
+  "queue_counts": [
+    {
+      "time_sec": 0.0,
+      "count": 5,
+      "ambiguous": false,
+      "note": "Standing line is visible. Count is people whose feet are inside the queue polygon."
+    },
+    {
+      "time_sec": 0.5,
+      "count": 5,
+      "ambiguous": false,
+      "note": "Standing line is visible. Count is people whose feet are inside the queue polygon."
+    },
+    {
+      "time_sec": 1.0,
+      "count": 5,
+      "ambiguous": false,
+      "note": "Standing line is visible. Count is people whose feet are inside the queue polygon."
+    },
+    {
+      "time_sec": 1.5,
+      "count": 5,
+      "ambiguous": false,
+      "note": "Standing line is visible. Count is people whose feet are inside the queue polygon."
+    },
+    {
+      "time_sec": 2.0,
+      "count": 5,
+      "ambiguous": false,
+      "note": "Standing line is visible. Count is people whose feet are inside the queue polygon."
+    },
+    {
+      "time_sec": 2.5,
+      "count": 5,
+      "ambiguous": true,
+      "note": "Passerby overlaps the queue polygon; feet of the standing line are partly hidden."
+    },
+    {
+      "time_sec": 3.0,
+      "count": 5,
+      "ambiguous": true,
+      "note": "Passerby overlaps the queue polygon; feet of the standing line are partly hidden."
+    },
+    {
+      "time_sec": 3.5,
+      "count": 5,
+      "ambiguous": false,
+      "note": "Standing line is visible. Count is people whose feet are inside the queue polygon."
+    },
+    {
+      "time_sec": 4.0,
+      "count": 5,
+      "ambiguous": true,
+      "note": "Passerby overlaps the queue polygon; feet of the standing line are partly hidden."
+    },
+    {
+      "time_sec": 4.5,
+      "count": 5,
+      "ambiguous": false,
+      "note": "Standing line is visible. Count is people whose feet are inside the queue polygon."
+    },
+    {
+      "time_sec": 5.0,
+      "count": 5,
+      "ambiguous": false,
+      "note": "Standing line is visible. Count is people whose feet are inside the queue polygon."
+    },
+    {
+      "time_sec": 5.5,
+      "count": 5,
+      "ambiguous": true,
+      "note": "Passerby overlaps the queue polygon; feet of the standing line are partly hidden."
+    },
+    {
+      "time_sec": 6.0,
+      "count": 5,
+      "ambiguous": false,
+      "note": "Standing line is visible. Count is people whose feet are inside the queue polygon."
+    },
+    {
+      "time_sec": 6.5,
+      "count": 5,
+      "ambiguous": true,
+      "note": "Passerby overlaps the queue polygon; feet of the standing line are partly hidden."
+    },
+    {
+      "time_sec": 7.0,
+      "count": 5,
+      "ambiguous": false,
+      "note": "Standing line is visible. Count is people whose feet are inside the queue polygon."
+    },
+    {
+      "time_sec": 7.5,
+      "count": 5,
+      "ambiguous": false,
+      "note": "Standing line is visible. Count is people whose feet are inside the queue polygon."
+    },
+    {
+      "time_sec": 8.0,
+      "count": 5,
+      "ambiguous": true,
+      "note": "Passerby overlaps the queue polygon; feet of the standing line are partly hidden."
+    },
+    {
+      "time_sec": 8.5,
+      "count": 5,
+      "ambiguous": true,
+      "note": "Passerby overlaps the queue polygon; feet of the standing line are partly hidden."
+    },
+    {
+      "time_sec": 9.0,
+      "count": 5,
+      "ambiguous": true,
+      "note": "Passerby overlaps the queue polygon; feet of the standing line are partly hidden."
+    },
+    {
+      "time_sec": 9.5,
+      "count": 5,
+      "ambiguous": true,
+      "note": "Passerby overlaps the queue polygon; feet of the standing line are partly hidden."
+    },
+    {
+      "time_sec": 10.0,
+      "count": 5,
+      "ambiguous": true,
+      "note": "Passerby overlaps the queue polygon; feet of the standing line are partly hidden."
+    }
+  ],
+  "visits": [],
+  "incomplete_observations": [
+    {
+      "ground_truth_id": "gt-q1",
+      "where": "queue",
+      "note": "Already standing in the queue at 0 s and still there at the end. Join was not observed."
+    },
+    {
+      "ground_truth_id": "gt-q2",
+      "where": "queue",
+      "note": "Already standing in the queue at 0 s and still there at the end."
+    },
+    {
+      "ground_truth_id": "gt-q3",
+      "where": "queue",
+      "note": "Child already in the queue polygon at 0 s."
+    },
+    {
+      "ground_truth_id": "gt-q4",
+      "where": "queue",
+      "note": "Second child already in the queue polygon at 0 s."
+    },
+    {
+      "ground_truth_id": "gt-q5",
+      "where": "queue",
+      "note": "Person in the hat already in the queue at 0 s."
+    },
+    {
+      "ground_truth_id": "gt-s1",
+      "where": "register",
+      "note": "Customer in the vest is already at the register at 0 s and still there at 10 s. Service start was not observed, and their ground point stayed outside the service polygon."
+    }
+  ],
+  "prediction_checks": []
+}

@@ -1,0 +1,4 @@
+visit_id,track_id,status,join_time_sec,service_start_sec,service_end_sec,waiting_time_sec,service_duration_sec,exit_interval_start_sec,closed_at_sec
+visit-0001,4,lost,0.0,,,,,,6.381374999999999
+visit-0002,6,lost,0.0,,,,,,5.6723333333333334
+visit-0003,8,lost,0.9592916666666667,,,,,,5.880875

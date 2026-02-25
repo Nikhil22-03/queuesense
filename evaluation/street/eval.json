@@ -1,0 +1,43 @@
+{
+  "statement": "These scores compare the run with the supplied manual annotations. They are not a person-detection benchmark and they are not a claim about real-world accuracy.",
+  "notes": "Manual counts for the sidewalk queue. No service counter is visible, so there are no service or waiting-time labels. Every sample is ambiguous because people occlude each other. The recorded count is 9 throughout because the line length did not visibly change.",
+  "run_status": "completed",
+  "queue_count_mae": 2.2916666666666665,
+  "queue_count_samples": 24,
+  "queue_count_unscored": 0,
+  "waiting_time_mae": null,
+  "waiting_time_samples": 0,
+  "matched_visits": 0,
+  "missed_visits": 0,
+  "unmatched_visits": 13,
+  "missed_ids": [],
+  "unmatched_ids": [
+    "visit-0001",
+    "visit-0002",
+    "visit-0003",
+    "visit-0004",
+    "visit-0005",
+    "visit-0006",
+    "visit-0007",
+    "visit-0008",
+    "visit-0009",
+    "visit-0010",
+    "visit-0011",
+    "visit-0012",
+    "visit-0013"
+  ],
+  "prediction_mae": null,
+  "prediction_samples": 0,
+  "prediction_skipped": 0,
+  "processing_fps": 6.870214101956681,
+  "hardware": {
+    "platform": "Windows-10-10.0.26100-SP0",
+    "processor": "AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD",
+    "python": "3.11.9",
+    "selected_device": "cpu",
+    "torch": "2.15.0+cpu",
+    "cuda_available": false,
+    "gpu_name": null,
+    "opencv": "4.14.0"
+  }
+}

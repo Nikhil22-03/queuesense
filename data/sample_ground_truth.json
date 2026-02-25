@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "notes": "Schema example. Replace the lists with your own manual annotations before scoring a run. QueueSense does not treat this file as a benchmark result.",
+  "match_tolerance_sec": 2.0,
+  "queue_counts": [],
+  "visits": [],
+  "prediction_checks": []
+}

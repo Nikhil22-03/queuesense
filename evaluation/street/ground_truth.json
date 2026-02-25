@@ -1,0 +1,160 @@
+{
+  "schema_version": 1,
+  "notes": "Manual counts for the sidewalk queue. No service counter is visible, so there are no service or waiting-time labels. Every sample is ambiguous because people occlude each other. The recorded count is 9 throughout because the line length did not visibly change.",
+  "match_tolerance_sec": 2.0,
+  "queue_counts": [
+    {
+      "time_sec": 0.0,
+      "count": 9,
+      "ambiguous": true,
+      "note": "Dense line. Count is the estimated number of people whose feet fall inside the drawn polygon, not every person socially in the line. Nearest feet fall below the polygon. Uncertainty is about plus or minus 3 people."
+    },
+    {
+      "time_sec": 1.0,
+      "count": 9,
+      "ambiguous": true,
+      "note": "Dense line. Count is the estimated number of people whose feet fall inside the drawn polygon, not every person socially in the line. Nearest feet fall below the polygon. Uncertainty is about plus or minus 3 people."
+    },
+    {
+      "time_sec": 2.0,
+      "count": 9,
+      "ambiguous": true,
+      "note": "Dense line. Count is the estimated number of people whose feet fall inside the drawn polygon, not every person socially in the line. Nearest feet fall below the polygon. Uncertainty is about plus or minus 3 people."
+    },
+    {
+      "time_sec": 3.0,
+      "count": 9,
+      "ambiguous": true,
+      "note": "Dense line. Count is the estimated number of people whose feet fall inside the drawn polygon, not every person socially in the line. Nearest feet fall below the polygon. Uncertainty is about plus or minus 3 people."
+    },
+    {
+      "time_sec": 4.0,
+      "count": 9,
+      "ambiguous": true,
+      "note": "Dense line. Count is the estimated number of people whose feet fall inside the drawn polygon, not every person socially in the line. Nearest feet fall below the polygon. Uncertainty is about plus or minus 3 people."
+    },
+    {
+      "time_sec": 5.0,
+      "count": 9,
+      "ambiguous": true,
+      "note": "Dense line. Count is the estimated number of people whose feet fall inside the drawn polygon, not every person socially in the line. Nearest feet fall below the polygon. Uncertainty is about plus or minus 3 people."
+    },
+    {
+      "time_sec": 6.0,
+      "count": 9,
+      "ambiguous": true,
+      "note": "Dense line. Count is the estimated number of people whose feet fall inside the drawn polygon, not every person socially in the line. Nearest feet fall below the polygon. Uncertainty is about plus or minus 3 people."
+    },
+    {
+      "time_sec": 7.0,
+      "count": 9,
+      "ambiguous": true,
+      "note": "Dense line. Count is the estimated number of people whose feet fall inside the drawn polygon, not every person socially in the line. Nearest feet fall below the polygon. Uncertainty is about plus or minus 3 people."
+    },
+    {
+      "time_sec": 8.0,
+      "count": 9,
+      "ambiguous": true,
+      "note": "Dense line. Count is the estimated number of people whose feet fall inside the drawn polygon, not every person socially in the line. Nearest feet fall below the polygon. Uncertainty is about plus or minus 3 people."
+    },
+    {
+      "time_sec": 9.0,
+      "count": 9,
+      "ambiguous": true,
+      "note": "Dense line. Count is the estimated number of people whose feet fall inside the drawn polygon, not every person socially in the line. Nearest feet fall below the polygon. Uncertainty is about plus or minus 3 people."
+    },
+    {
+      "time_sec": 10.0,
+      "count": 9,
+      "ambiguous": true,
+      "note": "Dense line. Count is the estimated number of people whose feet fall inside the drawn polygon, not every person socially in the line. Nearest feet fall below the polygon. Uncertainty is about plus or minus 3 people."
+    },
+    {
+      "time_sec": 11.0,
+      "count": 9,
+      "ambiguous": true,
+      "note": "Dense line. Count is the estimated number of people whose feet fall inside the drawn polygon, not every person socially in the line. Nearest feet fall below the polygon. Uncertainty is about plus or minus 3 people."
+    },
+    {
+      "time_sec": 12.0,
+      "count": 9,
+      "ambiguous": true,
+      "note": "Dense line. Count is the estimated number of people whose feet fall inside the drawn polygon, not every person socially in the line. Nearest feet fall below the polygon. Uncertainty is about plus or minus 3 people."
+    },
+    {
+      "time_sec": 13.0,
+      "count": 9,
+      "ambiguous": true,
+      "note": "Dense line. Count is the estimated number of people whose feet fall inside the drawn polygon, not every person socially in the line. Nearest feet fall below the polygon. Uncertainty is about plus or minus 3 people."
+    },
+    {
+      "time_sec": 14.0,
+      "count": 9,
+      "ambiguous": true,
+      "note": "Dense line. Count is the estimated number of people whose feet fall inside the drawn polygon, not every person socially in the line. Nearest feet fall below the polygon. Uncertainty is about plus or minus 3 people."
+    },
+    {
+      "time_sec": 15.0,
+      "count": 9,
+      "ambiguous": true,
+      "note": "Dense line. Count is the estimated number of people whose feet fall inside the drawn polygon, not every person socially in the line. Nearest feet fall below the polygon. Uncertainty is about plus or minus 3 people."
+    },
+    {
+      "time_sec": 16.0,
+      "count": 9,
+      "ambiguous": true,
+      "note": "Dense line. Count is the estimated number of people whose feet fall inside the drawn polygon, not every person socially in the line. Nearest feet fall below the polygon. Uncertainty is about plus or minus 3 people."
+    },
+    {
+      "time_sec": 17.0,
+      "count": 9,
+      "ambiguous": true,
+      "note": "Dense line. Count is the estimated number of people whose feet fall inside the drawn polygon, not every person socially in the line. Nearest feet fall below the polygon. Uncertainty is about plus or minus 3 people."
+    },
+    {
+      "time_sec": 18.0,
+      "count": 9,
+      "ambiguous": true,
+      "note": "Dense line. Count is the estimated number of people whose feet fall inside the drawn polygon, not every person socially in the line. Nearest feet fall below the polygon. Uncertainty is about plus or minus 3 people."
+    },
+    {
+      "time_sec": 19.0,
+      "count": 9,
+      "ambiguous": true,
+      "note": "Dense line. Count is the estimated number of people whose feet fall inside the drawn polygon, not every person socially in the line. Nearest feet fall below the polygon. Uncertainty is about plus or minus 3 people."
+    },
+    {
+      "time_sec": 20.0,
+      "count": 9,
+      "ambiguous": true,
+      "note": "Dense line. Count is the estimated number of people whose feet fall inside the drawn polygon, not every person socially in the line. Nearest feet fall below the polygon. Uncertainty is about plus or minus 3 people."
+    },
+    {
+      "time_sec": 21.0,
+      "count": 9,
+      "ambiguous": true,
+      "note": "Dense line. Count is the estimated number of people whose feet fall inside the drawn polygon, not every person socially in the line. Nearest feet fall below the polygon. Uncertainty is about plus or minus 3 people."
+    },
+    {
+      "time_sec": 22.0,
+      "count": 9,
+      "ambiguous": true,
+      "note": "Dense line. Count is the estimated number of people whose feet fall inside the drawn polygon, not every person socially in the line. Nearest feet fall below the polygon. Uncertainty is about plus or minus 3 people."
+    },
+    {
+      "time_sec": 23.0,
+      "count": 9,
+      "ambiguous": true,
+      "note": "Dense line. Count is the estimated number of people whose feet fall inside the drawn polygon, not every person socially in the line. Nearest feet fall below the polygon. Uncertainty is about plus or minus 3 people."
+    }
+  ],
+  "visits": [],
+  "incomplete_observations": [
+    {
+      "ground_truth_id": "gt-line",
+      "where": "sidewalk queue",
+      "note": "The people already waiting at 0 s are still waiting at 24 s. No one was seen reaching a counter, so none receive a waiting time."
+    }
+  ],
+  "prediction_checks": []
+}

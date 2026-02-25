@@ -1,0 +1,81 @@
+{
+  "downloaded_on": "2026-11-05",
+  "permission_note": "Local testing is allowed. Unmodified files are not redistributed and are gitignored. Pexels License and the Pixabay Content License both forbid selling or republishing the original file as standalone stock.",
+  "videos": [
+    {
+      "id": "starbucks",
+      "role": "development clip, scored",
+      "source_url": "https://www.pexels.com/video/busy-airport-starbucks-with-customer-queues-37130586/",
+      "download_url": "https://videos.pexels.com/video-files/37130586/15730070_1280_720_24fps.mp4",
+      "creator": "Pexels profile shown as 8K, bio: Lover of aerials and photography",
+      "license": "Pexels License (https://www.pexels.com/license/). Local use allowed. Do not redistribute the unmodified file.",
+      "local_filename": "data/external_videos/pexels_37130586_starbucks_720p.mp4",
+      "resolution": "1280x720",
+      "fps": 23.976,
+      "duration_sec": 10.30,
+      "frame_count": 247,
+      "sha256": "f0175b3e9185135501c7a8338cd45e4dc61a40846a3bdeee4111b80d207d8c33",
+      "page_duration_label": "The Pexels page widget showed 30:10. OpenCV measured 10.30 s. The file measurement is the one used."
+    },
+    {
+      "id": "street",
+      "role": "independent counting clip, scored for queue count only",
+      "source_url": "https://www.pexels.com/video/people-waiting-on-street-10467868/",
+      "download_url": "https://videos.pexels.com/video-files/10467868/10467868-hd_2732_1440_24fps.mp4",
+      "creator": "Pexels profile shown as 8K, bio: Lover of aerials and photography",
+      "license": "Pexels License. Local use allowed. Do not redistribute the unmodified file.",
+      "local_filename": "data/external_videos/pexels_10467868_street.mp4",
+      "resolution": "2732x1440",
+      "fps": 23.976,
+      "duration_sec": 24.02,
+      "frame_count": 576,
+      "sha256": "348f40b5c33bf8a2aafd5baf7d6c46b66860cfc08f27d3f345a371ac886599a5",
+      "page_duration_label": "The Pexels page widget showed 30:24 and the tags include timelapse. OpenCV measured 24.02 s. Sampled frames show normal walking speed and a locked background, so this file was not treated as a timelapse."
+    },
+    {
+      "id": "terminal",
+      "role": "downloaded and excluded",
+      "source_url": "https://www.pexels.com/video/busy-airport-terminal-with-people-in-queue-29576550/",
+      "download_url": "https://videos.pexels.com/video-files/29576550/12731025_1280_720_24fps.mp4",
+      "creator": "Pexels profile shown as 8K, bio: Lover of aerials and photography",
+      "license": "Pexels License. Local use allowed. Do not redistribute the unmodified file.",
+      "local_filename": "data/external_videos/pexels_29576550_terminal_720p.mp4",
+      "resolution": "1280x720",
+      "fps": 23.976,
+      "duration_sec": 12.89,
+      "frame_count": 309,
+      "sha256": "2d5ca582648eac1552d450c8975b097341b0ce15305f125d4676937018c22322",
+      "exclusion": "The camera walks into the queue. By 6.4 s a passport fills the foreground and by 12.5 s the frame is motion-blurred. A fixed polygon cannot mean the same floor region, so it was not scored."
+    },
+    {
+      "id": "cashier",
+      "role": "downloaded and excluded",
+      "source_url": "https://www.pexels.com/video/a-senior-people-lining-up-on-cashier-8421362/",
+      "download_url": "https://videos.pexels.com/video-files/8421362/8421362-hd_1280_720_25fps.mp4",
+      "creator": "Kampus Production",
+      "license": "Pexels License. Local use allowed. Do not redistribute the unmodified file.",
+      "local_filename": "data/external_videos/pexels_8421362_cashier_720p.mp4",
+      "resolution": "1280x720",
+      "fps": 25.0,
+      "duration_sec": 11.96,
+      "frame_count": 299,
+      "sha256": "5213c74e97043aaef6d9cf494d7e52eed5cc03adf98541c3ef0fc184ac41a8f4",
+      "exclusion": "Close-up of one customer already talking to a shopkeeper, plus a second person entering at the edge. There is no visible queue of waiting people."
+    },
+    {
+      "id": "pixabay_zeil",
+      "role": "downloaded and excluded",
+      "source_url": "https://pixabay.com/videos/pedestrian-line-purchases-126503/",
+      "download_url": "https://cdn.pixabay.com/video/2022/08/02/126503-736345202_large.mp4",
+      "creator": "AchimWeidner",
+      "license": "Pixabay Content License. Local use allowed. Do not redistribute the unmodified file as stock.",
+      "local_filename": "data/external_videos/pixabay_126503_pedestrian_line.mp4",
+      "resolution": "1920x1080",
+      "fps": 23.976,
+      "duration_sec": 29.57,
+      "frame_count": 709,
+      "sha256": "9770303f0a2fa25983978167f03a0a4ec35bcd4b2cc35afeaaf105fc3885b507",
+      "exclusion": "Fixed camera on a shopping street in Frankfurt. People are walking past Sephora and Vodafone. They are not waiting at a service point."
+    }
+  ]
+}

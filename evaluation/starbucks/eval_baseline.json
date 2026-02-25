@@ -1,0 +1,33 @@
+{
+  "statement": "These scores compare the run with the supplied manual annotations. They are not a person-detection benchmark and they are not a claim about real-world accuracy.",
+  "notes": "Manual counts for the Starbucks development clip. Count is people with feet inside the queue polygon, not passersby in the aisle and not the customer already at the register. The line stayed at 5 clear people (child, two smaller children, woman with the chevron bag, person in the hat). One more person may be hidden behind the hat; that possibility is why some frames are ambiguous, but the recorded count stays 5. No visit both joined and reached service inside this 10.3 s clip, so waiting time is not scored.",
+  "run_status": "completed",
+  "queue_count_mae": 3.8095238095238093,
+  "queue_count_samples": 21,
+  "queue_count_unscored": 0,
+  "waiting_time_mae": null,
+  "waiting_time_samples": 0,
+  "matched_visits": 0,
+  "missed_visits": 0,
+  "unmatched_visits": 3,
+  "missed_ids": [],
+  "unmatched_ids": [
+    "visit-0001",
+    "visit-0002",
+    "visit-0003"
+  ],
+  "prediction_mae": null,
+  "prediction_samples": 0,
+  "prediction_skipped": 0,
+  "processing_fps": 7.873677046134495,
+  "hardware": {
+    "platform": "Windows-10-10.0.26100-SP0",
+    "processor": "AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD",
+    "python": "3.11.9",
+    "selected_device": "cpu",
+    "torch": "2.15.0+cpu",
+    "cuda_available": false,
+    "gpu_name": null,
+    "opencv": "4.14.0"
+  }
+}

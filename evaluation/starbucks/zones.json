@@ -1,0 +1,40 @@
+{
+  "coordinate_space": "normalized",
+  "notes": "Starbucks development clip. Queue is the standing line left of the rope. Service is the customer floor at the register. The service polygon was widened left after the first run because the ordering customer's ground point sat just outside the original box.",
+  "queue": [
+    [
+      0.15,
+      0.63
+    ],
+    [
+      0.47,
+      0.58
+    ],
+    [
+      0.5,
+      0.88
+    ],
+    [
+      0.13,
+      0.91
+    ]
+  ],
+  "service": [
+    [
+      0.52,
+      0.62
+    ],
+    [
+      0.84,
+      0.58
+    ],
+    [
+      0.86,
+      0.98
+    ],
+    [
+      0.5,
+      0.98
+    ]
+  ]
+}

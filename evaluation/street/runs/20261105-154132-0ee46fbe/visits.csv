@@ -1,0 +1,14 @@
+visit_id,track_id,status,join_time_sec,service_start_sec,service_end_sec,waiting_time_sec,service_duration_sec,exit_interval_start_sec,closed_at_sec
+visit-0001,4,lost,0.0,,,,,,21.22954166666667
+visit-0002,5,incomplete,0.0,,,,,,23.982291666666665
+visit-0003,7,incomplete,0.0,,,,,,23.982291666666665
+visit-0004,8,lost,1.5432083333333333,,,,,,20.437083333333334
+visit-0005,106,lost,2.5025,,,,,,9.25925
+visit-0006,47,lost,3.25325,,,,,,17.5175
+visit-0007,128,incomplete,6.006,,,,,,23.982291666666665
+visit-0008,96,lost,6.464791666666667,,,,,,18.601916666666668
+visit-0009,2,incomplete,8.550208333333334,,,,,,23.982291666666665
+visit-0010,206,lost,9.092416666666667,,,,,,18.43508333333333
+visit-0011,9,lost,9.217541666666666,,,,,,14.305958333333333
+visit-0012,212,lost,9.75975,,,,,,15.056708333333333
+visit-0013,213,lost,11.344666666666667,,,,,,17.642625
